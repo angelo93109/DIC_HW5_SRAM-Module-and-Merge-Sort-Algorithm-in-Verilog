@@ -1,0 +1,1 @@
+clock period = 500ps
